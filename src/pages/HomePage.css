@@ -1,0 +1,8 @@
+/* src/pages/HomePage.css */
+.rental-list {
+    list-style: none;
+    padding: 0;
+}
+.rental-list li {
+    margin: 0.5rem 0;
+}
